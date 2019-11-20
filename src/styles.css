@@ -1,0 +1,6 @@
+body {
+  user-select: none !important;
+}
+#paragraphs {
+  user-select: text;
+}
