@@ -1,6 +1,43 @@
 body {
   user-select: none !important;
+
 }
 #paragraphs {
   user-select: text;
+}
+p {
+  font-size: 30px;
+  font-family: MOD;
+  text-align: center;
+}
+
+#l {
+  color: red;
+}
+#o {
+  color: orange;
+}
+#s {
+  color: #fffb00;
+}
+#t {
+  color: #04cf1c;
+}
+#b {
+  color: #ff38d1;
+}
+#i {
+  color: #9237d4;
+}
+#k {
+  color: #1fb0ff;
+}
+#e {
+  color: #ff922b;
+}
+#d {
+  color: red;
+}
+#a {
+  color: orange
 }
